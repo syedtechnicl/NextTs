@@ -37,7 +37,7 @@ const Page = () => {
         ))
       ) : (
         <p style={{ textAlign: "center", color: "red", fontSize: "200px" }}>
-          There is No Order
+          There is No Orders
         </p>
       )}
     </div>
